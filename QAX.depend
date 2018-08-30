@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1533846434 source:/home/tilmto/CodeBlocks/QAX/main.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<ctime>
+	<sys/types.h>
+	<dirent.h>
+	<time.h>
+
+1533663619 source:/home/tilmto/CodeBlocks/QAX (copy)/main.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<ctime>
+	<sys/types.h>
+	<dirent.h>
+	<time.h>
+
+1533686883 source:/home/tilmto/CodeBlocks/QAX_v2/main.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<ctime>
+	<sys/types.h>
+	<dirent.h>
+	<time.h>
+
+1534201554 source:/home/tilmto/CodeBlocks/QAErrorModel/main.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<ctime>
+	<sys/types.h>
+	<dirent.h>
+	<time.h>
+
